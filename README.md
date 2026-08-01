@@ -54,7 +54,6 @@ The emotion label appears above each detected face.
 ##  Sample Output
    
 Example:  
-![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
